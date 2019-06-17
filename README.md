@@ -31,11 +31,11 @@
 <img src="media/TianocoreTitlePageLogo.jpg" width="300" />
 
 
-#### Understanding the UEFI Secure Boot Chain {#understanding-uefi-secure-boot-chain}
+# Understanding the UEFI Secure Boot Chain {#understanding-uefi-secure-boot-chain}
 <!---
 ### {{ book.title }}
 -->
-##### WHITEPAPER
+##### Technical Briefing
 
 {% if book.draft %}
 ** DRAFT FOR REVIEW **
@@ -85,7 +85,7 @@ Copyright (c) 2019, Intel Corporation. All rights reserved.
 
 | Revision | Revision History | Date |
 | ---------- | ------------------ | ----------- |
-| 01.0 | Initial release. | May 2019|
+| 01.0 | Initial release. | June 2019|
 |  |  |  |
 
 
