@@ -42,4 +42,4 @@ Table 4-1: Device Firmware Boot Verification
 | **TP** | Device Firmware Verification | OEM or IHV | Flash (Read Only Code), Device ROM. |
 | **CDI** | System Firmware or Device firmware TCB | OEM or IHV | Flash (Read Only Code), ROM |
 |  | Device Firmware Signature Database (Policy) | OEM or IHV | Flash (Read Only Data), ROM |
-| **UDI** | Device Firmware | IHV | Device Internal Storage (or) |
+| **UDI** | Device Firmware | IHV | Device Internal Storage (or)<br>External Storage (e.g. Hard drive, USB, Memory, or Read-Write Flash)  |
