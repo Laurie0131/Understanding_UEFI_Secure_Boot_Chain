@@ -39,10 +39,10 @@ _-- “[Titan in depth: Security in plaintext](https://cloud.google.com/blog/pro
 
 Figure 4-10 shows the Titan System Integration diagram. Figure 4-11 shows the Titan Verified Boot flow.
 
-![](media/image24.png)
+![](/media/image24.png)
 
-Figure 4-10: Titan System Integration (source: “[Titan silicon root of trust for Google Cloud](https://keystone-enclave.org/workshop-website-2018/slides/Scott_Google_Titan.pdf)”)
+###### Figure 4-10: Titan System Integration (source: “[Titan silicon root of trust for Google Cloud](https://keystone-enclave.org/workshop-website-2018/slides/Scott_Google_Titan.pdf)”)
 
-![](media/image25.png)
+![](/media/image25.png)
 
-Figure 4-11: Titan Verified Boot(source: “[Titan silicon root of trust for Google Cloud](https://keystone-enclave.org/workshop-website-2018/slides/Scott_Google_Titan.pdf)”)
+###### Figure 4-11: Titan Verified Boot(source: “[Titan silicon root of trust for Google Cloud](https://keystone-enclave.org/workshop-website-2018/slides/Scott_Google_Titan.pdf)”)
