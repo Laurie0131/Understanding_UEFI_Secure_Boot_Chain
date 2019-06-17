@@ -85,7 +85,7 @@ Table 1-1: Clark-Wilson model
 
 ![](media/image1.png)
 
-Figure 1-1: Clark-Wilson model, From [Lee](http://www.cl.cam.ac.uk/~mgk25/lee-essays.pdf)
+###### Figure 1-1: Clark-Wilson model, From [Lee](http://www.cl.cam.ac.uk/~mgk25/lee-essays.pdf)
 
 Because the Clark-Wilson focuses on duty and transaction, it is more applicable to business and industry processes. Currently, some papers describe how to apply the Clark-Wilson integrity model to the existing system, such as [Windows](https://www.giac.org/paper/gsec/835/clark-wilson-security-model/101747), [Java](https://docplayer.net/36680206-Supporting-real-world-security-models-in-java.html) or [Trusted Computing Group (TCG) security](https://www.semanticscholar.org/paper/A-Comparison-of-the-trusted-Computing-Group-Model-Smith/fa82426d99b86d1040f80b8bd8e0ac4f785b29a6).
 
@@ -196,7 +196,7 @@ Table 1-7: Patterns for Verified Runtime Communication
 | --- | --- | --- | --- |
 | **TP** | Firmware[N].Code.Verifier.RuntimeCommunication (Firmware[N].Data.Policy.RuntimeCommunication, Data:New) | Firmware Owner |  |
 | **CDI** | Firmware[N].Code.Verifier.RuntimeCommunication + Firmware[N].Data.Policy.RuntimeCommunication | Firmware Owner | In an isolated execution environment. As such the rest of Firmware[N] cannot tamper it. |
-| **UDI** | Data:New | Any | Memory, loaded into an isolated environment, by Firmware[N]. Code.Verifier. PolicyUpdate. |
+| **UDI** | Data:New | Any | Memory, loaded into an isolated environment, by Firmware[N]. Code.Verifier. PolicyUpdate. <br> This can be any Data, as long as the format is known by the producer and consumer.|
 
 ### Comparing Clark-Wilson and UEFI Secure Boot {#comparing-clark-wilson-and-uefi-secure-boot}
 
@@ -206,12 +206,12 @@ Table 1-8: Comparison between Clark-Wilson and Secure Boot Chain
 
 | **Rule** | **Clark-Wilson** | **Secure Boot Chain** |
 | --- | --- | --- |
-| **C1** | The system will have an IVP for validating the integrity of any CDI. | Not applied today. No one validates the CDI. The integrity may be verified by using a signature check.If TCG trusted boot is enabled, PCR validation can also be done. |
-| **C2** | The application of a TP to any CDI must maintain the integrity of that CDI | Not applied. No User in UEFI. UEFI does not provide isolation. Ideally, the TP should not change CDI not managed by TP. But the reality is hard to enforce. SMM might be OK. ? |
-| **C3** | A CDI can only be changed by a certified TP. Separation of duties / least privilege. | Not applied. No User in UEFI.Similar to C2\. Only SMM has isolation. Data in SMM can only be changed in SMM.But SMM only used for UEFI Secure Boot authenticated variable trust anchors, and Intel® BIOS Guard update. |
+| **C1** | The system will have an IVP for validating the integrity of any CDI. | Not applied today. No one validates the CDI. <br>The integrity may be verified by using a signature check.<br>If TCG trusted boot is enabled, PCR validation can also be done. |
+| **C2** | The application of a TP to any CDI must maintain the integrity of that CDI | Not applied. No User in UEFI. <br>UEFI does not provide isolation. Ideally, the TP should not change CDI not managed by TP. But the reality is hard to enforce. <br>SMM might be OK. ? |
+| **C3** | A CDI can only be changed by a certified TP. Separation of duties / least privilege. | Not applied. No User in UEFI.<br>Similar to C2\. Only SMM has isolation. <br>Data in SMM can only be changed in SMM.<br>But SMM only used for UEFI Secure Boot authenticated variable trust anchors, and Intel® BIOS Guard update. |
 | **C4** | TP actions are logged. | TPM Event Log |
 | **C5** | TP actions on UDIs result in valid CDIs. | YES. Input Verification – secure boot chain |
 | **E1** | Only certified TPs may act on CDIs. | The verification TP is inside of verified firmware. |
-| **E2** | Subjects may access CDIs only through TPs for which they are authorized. | All code in same privilege, except SMM. |
+| **E2** | Subjects may access CDIs only through TPs for which they are authorized. | Not applied. No User in UEFI. <br>All code in same privilege, except SMM. |
 | **E3** | Subjects attempting to execute a TP must first be authenticated. | SMM |
 | **E4** | Only administrators can specify TP authorizations. | NO. CPU – hardware owner. |
