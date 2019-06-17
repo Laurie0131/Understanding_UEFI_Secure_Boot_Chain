@@ -33,9 +33,9 @@
 
 Figure 2-5 shows a complete secure boot chain constructed using Intel® Boot Guard, OBB Verification, and UEFI Secure Boot.
 
-![](media/image6.png)
+![](/media/image6.png)
 
-Figure 2-5: Secure Boot Verification Flow
+###### Figure 2-5: Secure Boot Verification Flow
 
 ### Signed Capsule Update {#signed-capsule-update}
 
@@ -70,9 +70,9 @@ The implementation above assumes any code in the execution environment is secure
 
 Figure 2-6 describes Intel® BIOS Guard components. Table 2-9 described firmware update verification using Intel® BIOS Guard.
 
-![](media/image7.png)
+![](/media/image7.png)
 
-Figure 2-6: Intel® BIOS Guard
+###### Figure 2-6: Intel® BIOS Guard
 
 Table 2-9: Firmware Update Verification
 

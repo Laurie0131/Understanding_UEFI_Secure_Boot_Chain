@@ -37,22 +37,20 @@ _“Verified Boot strives to ensure all executed code comes from a trusted sourc
 
 _-- “Verified Boot” ([source.android.com](https://source.android.com/security/verifiedboot))_
 
-![C:\Users\jyao1\Desktop\20180607105827101.png](media/image11.png)
+![](/media/image11.png)
 
-Figure 3-3: Android Verified Boot 1.0 without A/B (source: [Android Verified Boot 2.0](https://blog.csdn.net/rikeyone/article/details/80606147))
+###### Figure 3-3: Android Verified Boot 1.0 without A/B (source: [Android Verified Boot 2.0](https://blog.csdn.net/rikeyone/article/details/80606147))
 
-![C:\Users\jyao1\Desktop\20180607105904931.png](media/image12.png)
+![](/media/image12.png)
 
-Figure 3-4: Android Verified Boot 1.0 with A/B (source: [Android Verified Boot 2.0](https://blog.csdn.net/rikeyone/article/details/80606147))
+###### Figure 3-4: Android Verified Boot 1.0 with A/B (source: [Android Verified Boot 2.0](https://blog.csdn.net/rikeyone/article/details/80606147))
 
-![C:\Users\jyao1\Desktop\20180607105927467.png](media/image13.png)
+![](/media/image13.png)
 
-Figure 3-5: Android Verified Boot 2.0 (source: [Android Verified Boot 2.0](https://blog.csdn.net/rikeyone/article/details/80606147))
+###### Figure 3-5: Android Verified Boot 2.0 (source: [Android Verified Boot 2.0](https://blog.csdn.net/rikeyone/article/details/80606147))
 
 For additional information on OS kernel verification, see the following:
 
 *   [https://source.android.com/security/verifiedboot](https://source.android.com/security/verifiedboot)
-
-*   [https://android.googlesource.com/platform/external/avb/+/master/README.md](https://android.googlesource.com/platform/external/avb/+/master/README.md)
-
+*   [https://android.googlesource.com/platform/external/avb/+/master/README.md](https://android.googlesource.com/platform/external/avb/+/master/README.md)<Br>
 [https://blog.csdn.net/rikeyone/article/details/80606147](https://blog.csdn.net/rikeyone/article/details/80606147)

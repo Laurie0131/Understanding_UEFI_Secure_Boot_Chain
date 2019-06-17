@@ -39,9 +39,9 @@ UEFI Secure Boot assumes the OEM platform firmware is a Trusted Computing Base (
 
 Figure 2-4 shows the components involved in Intel® Boot Guard. Table 2-4 shows the key usage in Intel® Boot Guard.
 
-![](media/image5.png)
+![](/media/image5.png)
 
-Figure 2-4: Intel® Boot Guard diagram (credit: “[CYBER-RESILIENCY IN CHIPSET AND BIOS](https://downloads.dell.com/solutions/servers-solution-resources/Direct%20from%20Development%20-%20Cyber-Resiliency%20In%20Chipset%20and%20BIOS.pdf)” by Dell EMC)
+###### Figure 2-4: Intel® Boot Guard diagram (credit: “[CYBER-RESILIENCY IN CHIPSET AND BIOS](https://downloads.dell.com/solutions/servers-solution-resources/Direct%20from%20Development%20-%20Cyber-Resiliency%20In%20Chipset%20and%20BIOS.pdf)” by Dell EMC)
 
 Table 2-4: Key Usage in Intel® Boot Guard
 
