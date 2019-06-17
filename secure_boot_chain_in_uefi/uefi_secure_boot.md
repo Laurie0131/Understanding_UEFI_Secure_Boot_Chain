@@ -35,20 +35,20 @@ UEFI Secure Boot is a feature defined in the UEFI Specification. It guarantees t
 
 UEFI Secure Boot includes two parts - verification of the boot image and verification of updates to the image security database. Figure 2-1 shows the UEFI Secure Boot verification flow. Table 2-1 shows the key/image security database used in UEFI Secure Boot.
 
-![](media/image2.png)
+![](/media/image2.png)
 
-Figure 2-1: UEFI Secure Boot
+###### Figure 2-1: UEFI Secure Boot
 
 Table 2-1: Key Usage in UEFI Secure Boot
 
 | **Key** | **Verifies** | **Update is verified by** | **NOTES** |
 | --- | --- | --- | --- |
-| PK | New PK New KEK New db/dbx/dbt/dbr New OsRecoveryOrder New OsRecovery#### | PK | Platform Key |
-| KEK | New db/dbx/dbt/dbr New OsRecoveryOrder New OsRecovery#### | PK | Key Exchange Key |
+| PK | New PK <br>New KEK <br>New db/dbx/dbt/dbr <br>New OsRecoveryOrder <br>New OsRecovery#### | PK | Platform Key |
+| KEK | New db/dbx/dbt/dbr <br>New OsRecoveryOrder <br>New OsRecovery#### | PK | Key Exchange Key |
 | db | UEFI Image | PK/KEK | Authorized Image Database |
 | dbx | UEFI Image | PK/KEK | Forbidden Image Database |
 | dbt | UEFI Image + dbx | PK/KEK | Timestamp Database |
-| dbr | New OsRecoveryOrder New OsRecovery#### | PK/KEK | Recovery Database |
+| dbr | New OsRecoveryOrder <br>New OsRecovery#### | PK/KEK | Recovery Database |
 
 ### UEFI Secure Boot Image Verification {#uefi-secure-boot-image-verification}
 
@@ -81,15 +81,15 @@ During boot, the TP (Image Verification Procedure) verifies the UDI (3<sup>rd</s
 
 Figure 2-2 shows a verification flow using db/dbx.
 
-![](media/image3.png)
+![](/media/image3.png)
 
-Figure 2-2: Image Verification flow
+###### Figure 2-2: Image Verification flow
 
 Figure 2-3 shows a verification flow introducing dbt. An additional check is required based dbx signature.
 
-![](media/image4.png)
+![](/media/image4.png)
 
-Figure 2-3: Image Verification with timestamp signature database
+###### Figure 2-3: Image Verification with timestamp signature database
 
 ### UEFI Authenticated Variable Verification (Policy Update) {#uefi-authenticated-variable-verification-policy-update}
 
