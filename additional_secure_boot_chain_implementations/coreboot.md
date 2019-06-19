@@ -39,9 +39,20 @@ Figure 3-2 shows the verified boot flow. Table 3-2 shows keys used in the verifi
 
 ###### Figure 3-2: coreboot Verified Boot (source: “[Verified Boot in Chrome OS and how to make it work for you](https://static.googleusercontent.com/media/research.google.com/en/pubs/archive/42038.pdf)”){#3-2-coreboot-verified-boot-source-verified-boot-in-chrome-os-and-how-to-make-it-work-for-you}
 
+
+
 Table 3-2: Keys used by coreboot verified boot (source: “[Verified Boot: Surviving in the Internet of Insecure Things](https://www.coreboot.org/images/c/ce/Verified_Boot_-_Surviving_in_the_Internet_of_Insecure_Things.pdf)”)
 
-![](/media/image10.png)
+
+
+| **Key** | **Verifies** | **Stored in** | **Versioned** | **Notes** |
+| --- | --- | --- | --- | ---|
+|Root Key    |   Firmware Data Key |   RO Firmware |  NO  | Private key in a locked room guarded by laser sharks; N of M present. RSA4096+    |
+|Firmware Data Key    | RW Firmware    | RW FW Header   |  YES  | Private key on signing server. RSA4096.   |
+| Kernel Subkey   |  Kernel Data Key  | RW Firmware   | YEW (as FW)   | Private key only needed to sign new kernel data key. RSA4096.   |
+| Kernel Data Key   | OS Kernel  |   OS kernel Header | YES   |  Private key on signing server. RSA2048.  |
+| Recovery Key   | Recovery OS Kernel   |  RO Firmware  |  NO  | Locked room and laser sharks. RSA4096+. <br>Different than all keys above.<br>Signs recovery installer, not payload.   |
+
 
 Table 3-3: coreboot Verified Boot (for firmware)
 
