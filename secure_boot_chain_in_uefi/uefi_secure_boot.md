@@ -83,7 +83,7 @@ Figure 2-2 shows a verification flow using db/dbx.
 
 ![](/media/image3.png)
 
-###### Figure 2-2: Image Verification flow{#2-2-image verification flow}
+###### Figure 2-2: Image Verification flow{#2-2-image-verification-flow}
 
 Figure 2-3 shows a verification flow introducing dbt. An additional check is required based dbx signature.
 
