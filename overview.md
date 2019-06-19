@@ -85,7 +85,7 @@ Table 1-1: Clark-Wilson model
 
 ![](media/image1.png)
 
-###### Figure 1-1: Clark-Wilson model, From [Lee](http://www.cl.cam.ac.uk/~mgk25/lee-essays.pdf)(#clark-wilson-model-from-lee)
+###### Figure 1-1: Clark-Wilson model, From [Lee](http://www.cl.cam.ac.uk/~mgk25/lee-essays.pdf){#clark-wilson-model-from-lee}
 
 Because the Clark-Wilson focuses on duty and transaction, it is more applicable to business and industry processes. Currently, some papers describe how to apply the Clark-Wilson integrity model to the existing system, such as [Windows](https://www.giac.org/paper/gsec/835/clark-wilson-security-model/101747), [Java](https://docplayer.net/36680206-Supporting-real-world-security-models-in-java.html) or [Trusted Computing Group (TCG) security](https://www.semanticscholar.org/paper/A-Comparison-of-the-trusted-Computing-Group-Model-Smith/fa82426d99b86d1040f80b8bd8e0ac4f785b29a6).
 
