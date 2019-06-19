@@ -39,15 +39,15 @@ _-- “Verified Boot” ([source.android.com](https://source.android.com/securit
 
 ![](/media/image11.png)
 
-###### Figure 3-3: Android Verified Boot 1.0 without A/B (source: [Android Verified Boot 2.0](https://blog.csdn.net/rikeyone/article/details/80606147))
+###### Figure 3-3: Android Verified Boot 1.0 without A/B (source: [Android Verified Boot 2.0](https://blog.csdn.net/rikeyone/article/details/80606147)){#3-3-android-verified-boot-1.0-without-a-b-source-android-verified-boot-2.0}
 
 ![](/media/image12.png)
 
-###### Figure 3-4: Android Verified Boot 1.0 with A/B (source: [Android Verified Boot 2.0](https://blog.csdn.net/rikeyone/article/details/80606147))
+###### Figure 3-4: Android Verified Boot 1.0 with A/B (source: [Android Verified Boot 2.0](https://blog.csdn.net/rikeyone/article/details/80606147)){#3-4-android-verified-boot-1.0-with-a-b-source-android-verified-boot-2.0}
 
 ![](/media/image13.png)
 
-###### Figure 3-5: Android Verified Boot 2.0 (source: [Android Verified Boot 2.0](https://blog.csdn.net/rikeyone/article/details/80606147))
+###### Figure 3-5: Android Verified Boot 2.0 (source: [Android Verified Boot 2.0](https://blog.csdn.net/rikeyone/article/details/80606147)){#3-5-android-verified-boot-2.0-android-verified-boot-2.0}
 
 For additional information on OS kernel verification, see the following:
 
