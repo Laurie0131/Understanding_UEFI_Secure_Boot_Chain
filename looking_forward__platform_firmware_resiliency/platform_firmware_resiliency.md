@@ -35,7 +35,7 @@ In modern platforms, system firmware is only one of multiple firmware images. Mo
 
 ![](/media/image14.png)
 
-###### Figure 4-1: Component and Trust Chain, from NIST [SP800-193](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-193.pdf)
+###### Figure 4-1: Component and Trust Chain, from NIST [SP800-193](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-193.pdf){#4-1-component-and-trust-chain-from-nist-sp800-193}
 
 Device firmware may exist in a device-specific region that is managed by the device. In some cases, device firmware may reside in the same location as the system firmware, such as Serial Peripheral Interface (SPI) attached to flash, and the system firmware is responsible for loading the device firmware into a device firmware region.
 
@@ -63,4 +63,5 @@ Figure 4-2 shows a high-level view of an authentication protocol.
 
 ![](/media/image15.png)
 
-###### Figure 4-2: High-level View of PCIe® Component Authentication (source: [PCIe® Component Authentication](https://pcisig.com/pcie%C2%AE-component-authentication))
+###### Figure 4-2: High-level View of PCIe® Component Authentication (source: [PCIe® Component Authentication](https://pcisig.com/pcie%C2%AE-component-authentication)){#4-2-high-level-view-of-pcie-component-authentication-source-pcie-component-authentication}
+
