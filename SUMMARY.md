@@ -62,3 +62,8 @@
 * [Figure 2-1: UEFI Secure Boot ](secure_boot_chain_in_uefi/uefi_secure_boot.md#2-1-uefi-secure-boot)
 * [Figure 2-2: Image Verification flow](secure_boot_chain_in_uefi/uefi_secure_boot.md#2-2-image verification flow)
 * [Figure 2-3: Image Verification with timestamp signature database](secure_boot_chain_in_uefi/uefi_secure_boot.md#2-3-image-verification-with-timestamp-signature-database)
+* [Figure 2-4: Intel® Boot Guard diagram credit CYBER-RESILIENCY IN CHIPSET AND BIOS](secure_boot_chain_in_uefi/intel_boot_guard.md#2-4-intel-boot-guard-diagram-credit-cyber-resiliency-in-chipset-and-bios)
+* [Figure 2-5: Secure Boot Verification Flow](secure_boot_chain_in_uefi/boot_chain__putting_it_all_together.md#2-5-secure-boot-verification-flow)
+* [Figure 2-6: Intel® BIOS Guard](secure_boot_chain_in_uefi/boot_chain__putting_it_all_together.md#2-6-intel-bios-guard)
+
+

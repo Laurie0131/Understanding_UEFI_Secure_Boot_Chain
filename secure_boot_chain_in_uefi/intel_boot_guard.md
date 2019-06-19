@@ -41,7 +41,7 @@ Figure 2-4 shows the components involved in Intel® Boot Guard. Table 2-4 shows 
 
 ![](/media/image5.png)
 
-###### Figure 2-4: Intel® Boot Guard diagram (credit: “[CYBER-RESILIENCY IN CHIPSET AND BIOS](https://downloads.dell.com/solutions/servers-solution-resources/Direct%20from%20Development%20-%20Cyber-Resiliency%20In%20Chipset%20and%20BIOS.pdf)” by Dell EMC)
+###### Figure 2-4: Intel® Boot Guard diagram (credit: “[CYBER-RESILIENCY IN CHIPSET AND BIOS](https://downloads.dell.com/solutions/servers-solution-resources/Direct%20from%20Development%20-%20Cyber-Resiliency%20In%20Chipset%20and%20BIOS.pdf)” by Dell EMC){#2-4-intel-boot-guard-diagram-credit-cyber-resiliency-in-chipset-and-bios}
 
 Table 2-4: Key Usage in Intel® Boot Guard
 

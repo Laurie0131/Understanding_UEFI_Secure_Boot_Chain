@@ -35,7 +35,7 @@ Figure 2-5 shows a complete secure boot chain constructed using Intel® Boot Gua
 
 ![](/media/image6.png)
 
-###### Figure 2-5: Secure Boot Verification Flow
+###### Figure 2-5: Secure Boot Verification Flow{#2-5-secure-boot-verification-flow}
 
 ### Signed Capsule Update {#signed-capsule-update}
 
@@ -72,7 +72,7 @@ Figure 2-6 describes Intel® BIOS Guard components. Table 2-9 described firmware
 
 ![](/media/image7.png)
 
-###### Figure 2-6: Intel® BIOS Guard
+###### Figure 2-6: Intel® BIOS Guard{#2-6-intel-bios-guard}
 
 Table 2-9: Firmware Update Verification
 
