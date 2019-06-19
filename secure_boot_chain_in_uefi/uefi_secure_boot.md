@@ -37,7 +37,7 @@ UEFI Secure Boot includes two parts - verification of the boot image and verific
 
 ![](/media/image2.png)
 
-###### Figure 2-1: UEFI Secure Boot
+###### Figure 2-1: UEFI Secure Boot{#2-1-uefi-secure-boot}
 
 Table 2-1: Key Usage in UEFI Secure Boot
 
@@ -83,13 +83,13 @@ Figure 2-2 shows a verification flow using db/dbx.
 
 ![](/media/image3.png)
 
-###### Figure 2-2: Image Verification flow
+###### Figure 2-2: Image Verification flow{#2-2-image verification flow}
 
 Figure 2-3 shows a verification flow introducing dbt. An additional check is required based dbx signature.
 
 ![](/media/image4.png)
 
-###### Figure 2-3: Image Verification with timestamp signature database
+###### Figure 2-3: Image Verification with timestamp signature database{#2-3-image-verification-with-timestamp-signature-database}
 
 ### UEFI Authenticated Variable Verification (Policy Update) {#uefi-authenticated-variable-verification-policy-update}
 
