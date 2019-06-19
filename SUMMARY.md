@@ -56,3 +56,6 @@
 * [Glossary](glossary.md)
 * [References](references.md)
 
+## Figures
+
+* [Figure 1-1: Clark-Wilson model, From Lee](overview.md#clark-wilson-model-from-lee)
