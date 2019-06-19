@@ -37,7 +37,7 @@ Figure 3-2 shows the verified boot flow. Table 3-2 shows keys used in the verifi
 
 ![](/media/image9.png)
 
-###### Figure 3-2: coreboot Verified Boot (source: “[Verified Boot in Chrome OS and how to make it work for you](https://static.googleusercontent.com/media/research.google.com/en/pubs/archive/42038.pdf)”)
+###### Figure 3-2: coreboot Verified Boot (source: “[Verified Boot in Chrome OS and how to make it work for you](https://static.googleusercontent.com/media/research.google.com/en/pubs/archive/42038.pdf)”){#3-2-coreboot-verified-boot-source-verified-boot-in-chrome-os-and-how-to-make-it-work-for-you}
 
 Table 3-2: Keys used by coreboot verified boot (source: “[Verified Boot: Surviving in the Internet of Insecure Things](https://www.coreboot.org/images/c/ce/Verified_Boot_-_Surviving_in_the_Internet_of_Insecure_Things.pdf)”)
 

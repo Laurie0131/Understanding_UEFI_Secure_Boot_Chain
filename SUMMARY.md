@@ -66,6 +66,8 @@
 * [Figure 2-5: Secure Boot Verification Flow](secure_boot_chain_in_uefi/boot_chain__putting_it_all_together.md#2-5-secure-boot-verification-flow)
 * [Figure 2-6: Intel® BIOS Guard](secure_boot_chain_in_uefi/boot_chain__putting_it_all_together.md#2-6-intel-bios-guard)
 * [Figure 3-1: Linux MOK Boot, source: UEFI Secure Boot Webinar](additional_secure_boot_chain_implementations/machine_owner_key_mok.md#3-1-linux-mok-boot-source-uefi-secure-boot-webinar)
+* [Figure 3-2: coreboot Verified Boot source: “Verified Boot in Chrome OS and how to make it work for you"](additional_secure_boot_chain_implementations\coreboot.md#3-2-coreboot-verified-boot-source-verified-boot-in-chrome-os-and-how-to-make-it-work-for-you)
+
 
 
 
