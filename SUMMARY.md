@@ -79,6 +79,9 @@
 * [Figure 4-7: Intel® PFR Overview source: csdn.net](looking_forward__platform_firmware_resiliency/intel_platform_firmware_resilience_intel_pfr.md#4-7-intel-pfr-overview-source-csdn.net)
 * [Figure 4-8: Intel® PFR boot flow source: csdn.net](looking_forward__platform_firmware_resiliency/intel_platform_firmware_resilience_intel_pfr.md#4-8-intel-pfr-boot-flow-source-csdn.net)
 * [Figure 4-9: Intel® PFR Reset Sequence source: csdn.net](looking_forward__platform_firmware_resiliency/intel_platform_firmware_resilience_intel_pfr.md#4-9-intel-pfr-reset-sequence-source-csdn.net)
+* [Figure 4-10: Titan System Integration](looking_forward__platform_firmware_resiliency/google_titan.md#4-10-titan-system-integration)
+* [Figure 4-11: Titan Verified Boot](looking_forward__platform_firmware_resiliency/google_titan.md#4-11-titan-verified-boot)
+
 
 
 

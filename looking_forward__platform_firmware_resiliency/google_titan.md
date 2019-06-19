@@ -41,8 +41,8 @@ Figure 4-10 shows the Titan System Integration diagram. Figure 4-11 shows the Ti
 
 ![](/media/image24.png)
 
-###### Figure 4-10: Titan System Integration (source: “[Titan silicon root of trust for Google Cloud](https://keystone-enclave.org/workshop-website-2018/slides/Scott_Google_Titan.pdf)”)
+###### Figure 4-10: Titan System Integration (source: “[Titan silicon root of trust for Google Cloud](https://keystone-enclave.org/workshop-website-2018/slides/Scott_Google_Titan.pdf)”){#4-10-titan-system-integration}
 
 ![](/media/image25.png)
 
-###### Figure 4-11: Titan Verified Boot(source: “[Titan silicon root of trust for Google Cloud](https://keystone-enclave.org/workshop-website-2018/slides/Scott_Google_Titan.pdf)”)
+###### Figure 4-11: Titan Verified Boot(source: “[Titan silicon root of trust for Google Cloud](https://keystone-enclave.org/workshop-website-2018/slides/Scott_Google_Titan.pdf)”){#4-11-titan-verified-boot}
