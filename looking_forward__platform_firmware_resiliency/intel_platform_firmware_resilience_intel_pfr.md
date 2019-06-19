@@ -39,12 +39,12 @@ Figure 4-7 shows the Intel PFR system diagram. Figure 4-8 shows the Intel PFR bo
 
 ![](/media/image21.png)
 
-###### Figure 4-7: Intel® PFR Overview (source: [csdn.net](https://blog.csdn.net/zdx19880830/article/details/84190005)){#4-7-intel-pfr-overview-source-csdn.net}
+###### Figure 4-7: Intel® PFR Overview (source: [csdn.net](https://blog.csdn.net/zdx19880830/article/details/84190005)){#4-7-intel-pfr-overview-source-csdn-net}
 
 ![](/media/image22.png)
 
-###### Figure 4-8: Intel® PFR boot flow (source: [csdn.net](https://blog.csdn.net/zdx19880830/article/details/84190005)){#4-8-intel-pfr-boot-flow-source-csdn.net}
+###### Figure 4-8: Intel® PFR boot flow (source: [csdn.net](https://blog.csdn.net/zdx19880830/article/details/84190005)){#4-8-intel-pfr-boot-flow-source-csdn-net}
 
 ![](/media/image23.png)
 
-###### Figure 4-9: Intel® PFR Reset Sequence (source: [csdn.net](https://blog.csdn.net/zdx19880830/article/details/84190005)){#4-9-intel-pfr-reset-sequence-source-csdn.net}
+###### Figure 4-9: Intel® PFR Reset Sequence (source: [csdn.net](https://blog.csdn.net/zdx19880830/article/details/84190005)){#4-9-intel-pfr-reset-sequence-source-csdn-net}
