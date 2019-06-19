@@ -49,7 +49,7 @@ Table 3-2: Keys used by coreboot verified boot (source: “[Verified Boot: Survi
 | --- | --- | --- | --- | ---|
 |Root Key    |   Firmware Data Key |   RO Firmware |  NO  | Private key in a locked room guarded by laser sharks; N of M present. RSA4096+    |
 |Firmware Data Key    | RW Firmware    | RW FW Header   |  YES  | Private key on signing server. RSA4096.   |
-| Kernel Subkey   |  Kernel Data Key  | RW Firmware   | YEW (as FW)   | Private key only needed to sign new kernel data key. RSA4096.   |
+| Kernel Subkey   |  Kernel Data Key  | RW Firmware   | YES (as FW)   | Private key only needed to sign new kernel data key. RSA4096.   |
 | Kernel Data Key   | OS Kernel  |   OS kernel Header | YES   |  Private key on signing server. RSA2048.  |
 | Recovery Key   | Recovery OS Kernel   |  RO Firmware  |  NO  | Locked room and laser sharks. RSA4096+. <br>Different than all keys above.<br>Signs recovery installer, not payload.   |
 
