@@ -72,6 +72,10 @@
 * [Figure 3-5: Android Verified Boot 2.0 source: Android Verified Boot 2.0](additional_secure_boot_chain_implementations/android_verified_boot.md#3-5-android-verified-boot-2.0-android-verified-boot-2.0)
 * [Figure 4-1: Component and Trust Chain, from NIST SP800-193](looking_forward__platform_firmware_resiliency/platform_firmware_resiliency.md#4-1-component-and-trust-chain-from-nist-sp800-193)
 * [Figure 4-2: High-level View of PCIe® Component Authentication ](looking_forward__platform_firmware_resiliency/platform_firmware_resiliency.md#4-2-high-level-view-of-pcie-component-authentication-source-pcie-component-authentication)
+* [Figure 4-3: Cerberus power on sequence source: “Project Cerberus Hardware Security](looking_forward__platform_firmware_resiliency/project_cerberus.md#4-3-cerberus-power-on-sequence-source-project-cerberus-hardware-security)
+* [Figure 4-4: Cerberus boot flow source: “Project Cerberus Hardware Security"](looking_forward__platform_firmware_resiliency/project_cerberus.md#4-4-cerberus-boot-flow-source-project-cerberus-hardware-security)
+* [Figure 4-5: Cerberus recovery flow source: “Project Cerberus Hardware Security"](looking_forward__platform_firmware_resiliency/project_cerberus.md#4-5-cerberus-recovery-flow-source-project-cerberus-hardware-security)
+* [Figure 4-6: Cerberus firmware update source: “Project Cerberus Hardware Security"](looking_forward__platform_firmware_resiliency/project_cerberus.md#4-6-cerberus-firmware-update-source-project-cerberus-hardware-security)
 
 
 

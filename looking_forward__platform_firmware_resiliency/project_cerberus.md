@@ -37,19 +37,19 @@ Figure 4-3 thru 4-6 describe the power on sequence, boot flow, recovery flow, an
 
 ![](/media/image16.png)
 
-###### Figure 4-3: Cerberus power on sequence (source: “[Project Cerberus Hardware Security](https://f990335bdbb4aebc3131-b23f11c2c6da826ceb51b46551bfafdc.ssl.cf2.rackcdn.com/images/fbbdd5feceb6e6328373417e1ab7c06a13a2ef2c.pdf)”)
+###### Figure 4-3: Cerberus power on sequence (source: “[Project Cerberus Hardware Security](https://f990335bdbb4aebc3131-b23f11c2c6da826ceb51b46551bfafdc.ssl.cf2.rackcdn.com/images/fbbdd5feceb6e6328373417e1ab7c06a13a2ef2c.pdf)”){#4-3-cerberus-power-on-sequence-source-project-cerberus-hardware-security}
 
 ![](/media/image17.png)
 
-###### Figure 4-4: Cerberus boot flow (source: “[Project Cerberus Hardware Security](https://f990335bdbb4aebc3131-b23f11c2c6da826ceb51b46551bfafdc.ssl.cf2.rackcdn.com/images/fbbdd5feceb6e6328373417e1ab7c06a13a2ef2c.pdf)”)
+###### Figure 4-4: Cerberus boot flow (source: “[Project Cerberus Hardware Security](https://f990335bdbb4aebc3131-b23f11c2c6da826ceb51b46551bfafdc.ssl.cf2.rackcdn.com/images/fbbdd5feceb6e6328373417e1ab7c06a13a2ef2c.pdf)”){#4-4-cerberus-boot-flow-source-project-cerberus-hardware-security}
 
 ![](/media/image18.png)
 
-###### Figure 4-5: Cerberus recovery flow (source: “[Project Cerberus Hardware Security](https://f990335bdbb4aebc3131-b23f11c2c6da826ceb51b46551bfafdc.ssl.cf2.rackcdn.com/images/fbbdd5feceb6e6328373417e1ab7c06a13a2ef2c.pdf)”)
+###### Figure 4-5: Cerberus recovery flow (source: “[Project Cerberus Hardware Security](https://f990335bdbb4aebc3131-b23f11c2c6da826ceb51b46551bfafdc.ssl.cf2.rackcdn.com/images/fbbdd5feceb6e6328373417e1ab7c06a13a2ef2c.pdf)”){#4-5-cerberus-recovery-flow-source-project-cerberus-hardware-security}
 
 ![](/media/image19.png)![](/media/image20.png)
 
-###### Figure 4-6: Cerberus firmware update (source: “[Project Cerberus Hardware Security](https://f990335bdbb4aebc3131-b23f11c2c6da826ceb51b46551bfafdc.ssl.cf2.rackcdn.com/images/fbbdd5feceb6e6328373417e1ab7c06a13a2ef2c.pdf)”)
+###### Figure 4-6: Cerberus firmware update (source: “[Project Cerberus Hardware Security](https://f990335bdbb4aebc3131-b23f11c2c6da826ceb51b46551bfafdc.ssl.cf2.rackcdn.com/images/fbbdd5feceb6e6328373417e1ab7c06a13a2ef2c.pdf)”){#4-6-cerberus-firmware-update-source-project-cerberus-hardware-security}
 
 The concept of Cerberus is similar to Intel® Boot Guard., but there are several key differences:
 
