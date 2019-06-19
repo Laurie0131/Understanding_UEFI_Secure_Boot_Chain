@@ -37,7 +37,7 @@ Figure 3-1 and Table 3-1 provide an overview of MOK.
 
 ![](/media/image8.png)
 
-###### Figure 3-1: Linux MOK Boot, (source: “[UEFI Secure Boot Webinar](https://www.suse.com/media/presentation/uefi_secure_boot_webinar.pdf)”)
+###### Figure 3-1: Linux MOK Boot, (source: “[UEFI Secure Boot Webinar](https://www.suse.com/media/presentation/uefi_secure_boot_webinar.pdf)”){#3-1-linux-mok-boot-source-uefi-secure-boot-webinar}
 
 Table 3-1: Linux MOK Boot
 

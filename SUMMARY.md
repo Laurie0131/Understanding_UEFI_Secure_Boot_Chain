@@ -65,5 +65,7 @@
 * [Figure 2-4: Intel® Boot Guard diagram credit CYBER-RESILIENCY IN CHIPSET AND BIOS](secure_boot_chain_in_uefi/intel_boot_guard.md#2-4-intel-boot-guard-diagram-credit-cyber-resiliency-in-chipset-and-bios)
 * [Figure 2-5: Secure Boot Verification Flow](secure_boot_chain_in_uefi/boot_chain__putting_it_all_together.md#2-5-secure-boot-verification-flow)
 * [Figure 2-6: Intel® BIOS Guard](secure_boot_chain_in_uefi/boot_chain__putting_it_all_together.md#2-6-intel-bios-guard)
+* [Figure 3-1: Linux MOK Boot, source: UEFI Secure Boot Webinar](additional_secure_boot_chain_implementations/machine_owner_key_mok.md#3-1-linux-mok-boot-source-uefi-secure-boot-webinar)
+
 
 
