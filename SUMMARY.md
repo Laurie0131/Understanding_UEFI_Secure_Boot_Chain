@@ -66,10 +66,15 @@
 * [Figure 2-5: Secure Boot Verification Flow](secure_boot_chain_in_uefi/boot_chain__putting_it_all_together.md#2-5-secure-boot-verification-flow)
 * [Figure 2-6: Intel® BIOS Guard](secure_boot_chain_in_uefi/boot_chain__putting_it_all_together.md#2-6-intel-bios-guard)
 * [Figure 3-1: Linux MOK Boot, source: UEFI Secure Boot Webinar](additional_secure_boot_chain_implementations/machine_owner_key_mok.md#3-1-linux-mok-boot-source-uefi-secure-boot-webinar)
-* [Figure 3-2: coreboot Verified Boot source: “Verified Boot in Chrome OS and how to make it work for you"](additional_secure_boot_chain_implementations/coreboot.md#3-2-coreboot-verified-boot-source-verified-boot-in-chrome-os-and-how-to-make-it-work-for-you)
+* [Figure 3-2: coreboot Verified Boot ](additional_secure_boot_chain_implementations/coreboot.md#3-2-coreboot-verified-boot-source-verified-boot-in-chrome-os-and-how-to-make-it-work-for-you)
 * [Figure 3-3: Android Verified Boot 1.0 without A/B source: Android Verified Boot 2.0](additional_secure_boot_chain_implementations/android_verified_boot.md#3-3-android-verified-boot-1.0-without-a-b-source-android-verified-boot-2.0)
 * [Figure 3-4: Android Verified Boot 1.0 with A/B source: Android Verified Boot 2.0](additional_secure_boot_chain_implementations/android_verified_boot.md#3-4-android-verified-boot-1.0-with-a-b-source-android-verified-boot-2.0)
 * [Figure 3-5: Android Verified Boot 2.0 source: Android Verified Boot 2.0](additional_secure_boot_chain_implementations/android_verified_boot.md#3-5-android-verified-boot-2.0-android-verified-boot-2.0)
+* [Figure 4-1: Component and Trust Chain, from NIST SP800-193](looking_forward__platform_firmware_resiliency/platform_firmware_resiliency.md#4-1-component-and-trust-chain-from-nist-sp800-193)
+* [Figure 4-2: High-level View of PCIe® Component Authentication ](looking_forward__platform_firmware_resiliency/platform_firmware_resiliency.md#4-2-high-level-view-of-pcie-component-authentication-source-pcie-component-authentication)
+
+
+
 
 
 
