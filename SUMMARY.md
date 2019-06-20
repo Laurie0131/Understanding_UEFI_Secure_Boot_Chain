@@ -1,5 +1,5 @@
 <!--- @file
-  Summary.md for Understanding the UEFI Secure Boot Chain
+  SUMMARY.md for Understanding the UEFI Secure Boot Chain
 
   Copyright (c) 2019, Intel Corporation. All rights reserved.<BR>
 
@@ -28,21 +28,20 @@
   ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 -->
-
 # Summary
 
 * [Understanding UEFI Secure Boot Chain](README.md)
 * [Executive Summary](executive_summary.md)
 * [Overview](overview.md)
-  * [Integrity Models ](overview.md#integrity-models)
-  * [Introduction to the Secure Boot Chain](overview.md#introduction-to-the-secure-boot-chain)
-  * [Patterns in the Secure Boot Chain](overview.md#patterns-in-the-secure-boot-chain)
-  * [Comparing Clark-Wilson and UEFI Secure Boot](overview.md#comparing-clark-wilson-and-uefi-secure-boot)
+  * [Integrity Models](integrity-models.md)
+  * [Introduction to the Secure Boot Chain](introduction-to-the-secure-boot-chain.md)
+  * [Patterns in the Secure Boot Chain](patterns-in-the-secure-boot-chain.md)
+  * [Comparing Clark-Wilson and UEFI Secure Boot](comparing-clark-wilson-and-uefi-secure-boot.md)
 * [Secure Boot Chain in UEFI](secure_boot_chain_in_uefi/README.md)
   * [UEFI Secure Boot](secure_boot_chain_in_uefi/uefi_secure_boot.md)
   * [Intel® Boot Guard](secure_boot_chain_in_uefi/intel_boot_guard.md)
   * [Boot Chain – Putting it all together](secure_boot_chain_in_uefi/boot_chain__putting_it_all_together.md)
-  * [Signed Capsule Update](secure_boot_chain_in_uefi/boot_chain__putting_it_all_together.md#signed-capsule-update)  
+  * [Signed Capsule Update](secure_boot_chain_in_uefi/boot_chain__putting_it_all_together.md#signed-capsule-update)
   * [Signed Recovery](secure_boot_chain_in_uefi/signed_recovery.md)
   * [S3 Resume](secure_boot_chain_in_uefi/s3_resume.md)
   * [SMM Runtime Communication](secure_boot_chain_in_uefi/smm_runtime_communication.md)
@@ -63,11 +62,10 @@
   * [Books and Papers ](references.md#books-and-papers)
   * [Web](references.md#web)
 
-
-
 ---
+
 * Figures
-  * [Figure 1-1: Clark-Wilson model, From Lee](overview.md#clark-wilson-model-from-lee)
+  * [Figure 1-1: Clark-Wilson model, From Lee](integrity-models.md#clark-wilson-model-from-lee)
   * [Figure 2-1: UEFI Secure Boot ](secure_boot_chain_in_uefi/uefi_secure_boot.md#2-1-uefi-secure-boot)
   * [Figure 2-2: Image Verification flow](secure_boot_chain_in_uefi/uefi_secure_boot.md#2-2-image-verification-flow)
   * [Figure 2-3: Image Verification with timestamp signature database](secure_boot_chain_in_uefi/uefi_secure_boot.md#2-3-image-verification-with-timestamp-signature-database)
@@ -91,12 +89,4 @@
   * [Figure 4-10: Titan System Integration](looking_forward__platform_firmware_resiliency/google_titan.md#4-10-titan-system-integration)
   * [Figure 4-11: Titan Verified Boot](looking_forward__platform_firmware_resiliency/google_titan.md#4-11-titan-verified-boot)
   * [Figure 4-12: Lattice PFR source: latticesemi.com/pfr](looking_forward__platform_firmware_resiliency/other_platform_firmware_resiliency_pfr_implementat.md#4-12-lattice-pfr-source-latticesemi.com-pfr)
-
-
-
-
-
-
-
-
 
