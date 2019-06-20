@@ -37,7 +37,7 @@ Figure 2-5 shows a complete secure boot chain constructed using Intel® Boot Gua
 
 ###### Figure 2-5: Secure Boot Verification Flow{#2-5-secure-boot-verification-flow}
 
-### Signed Capsule Update {#signed-capsule-update}
+## Signed Capsule Update {#signed-capsule-update}
 
 Platform firmware often requires an update. NIST provides multiple guidelines for authenticated updates ([SP800-147](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-147.pdf), [SP800-147B](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-147B.pdf), [SP800-193](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-193.pdf)). EDK II implements authenticated updates based on [Signed UEFI Capsule Updates and Capsule Recovery](https://github.com/tianocore-docs/Docs/raw/master/White_Papers/A_Tour_Beyond_BIOS_Capsule_Update_and_Recovery_in_EDK_II.pdf). Table 2-8 describes firmware update verification.
 
