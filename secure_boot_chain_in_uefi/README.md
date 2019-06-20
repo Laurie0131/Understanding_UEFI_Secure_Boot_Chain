@@ -36,7 +36,7 @@ This section describes the overview of the UEFI Secure Boot chain including the 
 *   UEFI Secure Boot
 *   Intel® Boot Guard
 *   Boot Chain – Putting it all together
-    *   Signed Capsule Update
+*   Signed Capsule Update
     *   Intel® BIOS Guard
 *   Signed Recovery
 *   S3 Resume
