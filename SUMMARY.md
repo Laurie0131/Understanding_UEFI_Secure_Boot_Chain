@@ -1,3 +1,34 @@
+<!--- @file
+ SUMMARY.md for Understanding the UEFI Secure Boot Chain
+
+  Copyright (c) 2019, Intel Corporation. All rights reserved.<BR>
+
+  Redistribution and use in source (original document form) and 'compiled'
+  forms (converted to PDF, epub, HTML and other formats) with or without
+  modification, are permitted provided that the following conditions are met:
+
+  1) Redistributions of source code (original document form) must retain the
+     above copyright notice, this list of conditions and the following
+     disclaimer as the first lines of this file unmodified.
+
+  2) Redistributions in compiled form (transformed to other DTDs, converted to
+     PDF, epub, HTML and other formats) must reproduce the above copyright
+     notice, this list of conditions and the following disclaimer in the
+     documentation and/or other materials provided with the distribution.
+
+  THIS DOCUMENTATION IS PROVIDED BY TIANOCORE PROJECT "AS IS" AND ANY EXPRESS OR
+  IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+  MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO
+  EVENT SHALL TIANOCORE PROJECT  BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+  SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+  PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;
+  OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+  WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+  OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS DOCUMENTATION, EVEN IF
+  ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+-->
+
 # Summary
 
 * [Understanding UEFI Secure Boot Chain](README.md)
@@ -41,7 +72,7 @@
   * [Figure 2-3: Image Verification with timestamp signature database](secure_boot_chain_in_uefi/uefi_secure_boot.md#2-3-image-verification-with-timestamp-signature-database)
   * [Figure 2-4: Intel® Boot Guard diagram credit CYBER-RESILIENCY IN CHIPSET AND BIOS](secure_boot_chain_in_uefi/intel_boot_guard.md#2-4-intel-boot-guard-diagram-credit-cyber-resiliency-in-chipset-and-bios)
   * [Figure 2-5: Secure Boot Verification Flow](secure_boot_chain_in_uefi/boot_chain__putting_it_all_together.md#2-5-secure-boot-verification-flow)
-  * [Figure 2-6: Intel® BIOS Guard](secure_boot_chain_in_uefi/boot_chain__putting_it_all_together.md#2-6-intel-bios-guard)
+  * [Figure 2-6: Intel® BIOS Guard](secure_boot_chain_in_uefi/boot_chain__putting_it_all_together/signed-capsule-update.md#2-6-intel-bios-guard)
   * [Figure 3-1: Linux MOK Boot, source: UEFI Secure Boot Webinar](additional_secure_boot_chain_implementations/machine_owner_key_mok.md#3-1-linux-mok-boot-source-uefi-secure-boot-webinar)
   * [Figure 3-2: coreboot Verified Boot ](additional_secure_boot_chain_implementations/coreboot.md#3-2-coreboot-verified-boot-source-verified-boot-in-chrome-os-and-how-to-make-it-work-for-you)
   * [Figure 3-3: Android Verified Boot 1.0 without A/B source: Android Verified Boot 2.0](additional_secure_boot_chain_implementations/android_verified_boot.md#3-3-android-verified-boot-1-0-without-a-b-source-android-verified-boot-2-0)
