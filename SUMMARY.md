@@ -60,8 +60,8 @@
 
 
 
-## Figures
-* [Figures](FIGURES.md)
+---
+* Figures
   * [Figure 1-1: Clark-Wilson model, From Lee](overview.md#clark-wilson-model-from-lee)
   * [Figure 2-1: UEFI Secure Boot ](secure_boot_chain_in_uefi/uefi_secure_boot.md#2-1-uefi-secure-boot)
   * [Figure 2-2: Image Verification flow](secure_boot_chain_in_uefi/uefi_secure_boot.md#2-2-image-verification-flow)
